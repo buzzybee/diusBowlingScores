@@ -1,4 +1,4 @@
-## Coding exercise in repsonse to
+## Coding exercise in response to
 https://github.com/DiUS/coding-tests/blob/master/dius_bowling.md
 
 ### Instructions on running the code
